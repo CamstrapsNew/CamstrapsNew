@@ -1,0 +1,43 @@
+
+
+.gauche{
+
+position: relative;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.droite{
+	position: relative;
+float:right;
+text-align: center;
+    display: flex;
+    flex-direction: row;
+right:0
+top:-20px;
+margin-left:5px;
+}
+.bar{
+
+position: relative;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#titre{
+	color:green;
+}
+
+#devis{
+	width: 150px;
+	height: 25px;
+background-color: blue;
+margin-right:10px;
+}
+#num{
+	width: 150px;
+	height: 25px;
+background-color: green;}
